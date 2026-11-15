@@ -1,0 +1,5 @@
+vsCodeショートカット
+    termilalウィンドウを開く: control + shift + @
+    terminalタブを開く: control + shift + ^
+    terminalタブを閉じる: control + d
+    terminalタブ移動: shift + cmd + [ or ]
